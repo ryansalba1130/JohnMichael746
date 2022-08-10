@@ -52,6 +52,8 @@
 ![rust](https://img.shields.io/badge/Rust-363636?style=for-the-badge&logo=rust&logoColor=white)
 ![solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 
+<h2>📈 &nbsp;He likes</h2>
+<span align="left">
 
  ![John's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=johnmichael746&show_icons=true&theme=default) 
 
