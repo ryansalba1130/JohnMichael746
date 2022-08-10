@@ -42,4 +42,12 @@
 <img alt="Github Actions" src="https://img.shields.io/static/v1?style=for-the-badge&message=GitHub+Actions&color=2088FF&logo=GitHub+Actions&logoColor=FFFFFF&label=" />
 <img alt="Git" src="https://img.shields.io/static/v1?style=for-the-badge&message=Git&color=F05032&logo=Git&logoColor=FFFFFF&label=" /></span>
 
-[![Michael Pereira's Github Stats](https://github-readme-stats.vercel.app/api?username=Mwpereira&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<h2>📈 &nbsp;John's Github Stats</h2>
+<span align="left">
+
+![Saif's GitHub Stats](https://github-readme-stats.vercel.app/api?username=saifrehman99&show_icons=true&hide_border=true&bg_color=3D3D3D&title_color=00E6FE&icon_color=00E6FE&text_color=FFFFFF)
+</span>
+<span align="right">
+![My GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SaifRehman99&hide_border=true&theme=black-ice&background=3D3D3D&stroke=00E6FE)
+</span>
+ 
