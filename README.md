@@ -19,6 +19,11 @@
 <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/></span>
 <img alt="Oracle" src="https://img.shields.io/static/v1?style=for-the-badge&message=OracleDB&color=CC2927&logo=Oracle&logoColor=FFFFFF&label="/></span>
 
+
+<span align="right">
+ ![John's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=johnmichael746&show_icons=true&theme=default) 
+</span>
+
 ### Servers
 
 <span><img alt="Express" src="https://img.shields.io/static/v1?style=for-the-badge&message=Express&color=000000&logo=Express&logoColor=FFFFFF&label="/>
@@ -66,6 +71,4 @@
 <span align="right">
 ![My GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JohnMichael746&hide_border=true&theme=black-ice&background=3D3D3D&stroke=00E6FE)
 </span>
-
- ![davidsoft318's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=davidsoft318&show_icons=true&theme=default) 
  
