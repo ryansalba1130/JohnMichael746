@@ -1,4 +1,4 @@
-## Welcome! I'm Michael. 🙂
+## Welcome! I'm John Michael. 🙂
 ### Full Stack Enthusiast
 
 📚 Languages  
@@ -14,13 +14,13 @@
 <span><img alt="MySQL" src="https://img.shields.io/static/v1?style=for-the-badge&message=MySQL&color=4053D6&logo=MySQL&logoColor=FFFFFF&label="/>
 <img alt="Postgres" src="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/></span>
-<img alt="Microsoft SQL" src="https://img.shields.io/static/v1?style=for-the-badge&message=Oracle+Server&color=CC2927&logo=Oracle&logoColor=FFFFFF&label="/></span>
+<img alt="Oracle" src="https://img.shields.io/static/v1?style=for-the-badge&message=OracleDB&color=CC2927&logo=Oracle&logoColor=FFFFFF&label="/></span>
 
 🖥 Servers
 
 <span><img alt="Express" src="https://img.shields.io/static/v1?style=for-the-badge&message=Express&color=000000&logo=Express&logoColor=FFFFFF&label="/>
 <img alt="Spring" src="https://img.shields.io/badge/spring-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white"/>
-<img alt="ElasticCloud" src="https://img.shields.io/static/v1?style=for-the-badge&message=Elastic+Cloud&color=005571&logo=Elastic+Cloud&logoColor=FFFFFF&label="/></span>
+<img alt="REST+API" src="https://img.shields.io/static/v1?style=for-the-badge&message=Elastic+Cloud&color=005571&logo=Elastic+Cloud&logoColor=FFFFFF&label="/></span>
 
 🎨 Frameworks  
 
