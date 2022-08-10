@@ -19,8 +19,6 @@
 <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/></span>
 <img alt="Oracle" src="https://img.shields.io/static/v1?style=for-the-badge&message=OracleDB&color=CC2927&logo=Oracle&logoColor=FFFFFF&label="/></span>
 
- ![John's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=johnmichael746&show_icons=true&theme=default) 
-
 ### Servers
 
 <span><img alt="Express" src="https://img.shields.io/static/v1?style=for-the-badge&message=Express&color=000000&logo=Express&logoColor=FFFFFF&label="/>
@@ -54,11 +52,8 @@
 ![rust](https://img.shields.io/badge/Rust-363636?style=for-the-badge&logo=rust&logoColor=white)
 ![solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 
-### Design Tools
 
-![adobe-xd](https://img.shields.io/badge/adobe_xd-470137?style=for-the-badge&logo=adobe-xd&logoColor=white)
-![figma](https://img.shields.io/badge/figma-000000?style=for-the-badge&logo=figma&logoColor=white)
-![canva](https://img.shields.io/badge/canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+ ![John's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=johnmichael746&show_icons=true&theme=default) 
 
 <h2>📈 &nbsp;John's Github Stats</h2>
 <span align="left">
