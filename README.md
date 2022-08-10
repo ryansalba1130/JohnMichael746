@@ -1,28 +1,33 @@
 <h1 align="center">Hi 👋, I'm John Michael</h1>
 <h3 align="center">A professional full stack developer</h3>
 
-📚 Languages  
+### Languages  
 
 <span><img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
 <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 <img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+![solidity](https://img.shields.io/badge/SOLIDITY-28B6F6?style=for-the-badge&logo=SOLIDITY&logoColor=white)
+![rust](https://img.shields.io/badge/RUST-323330?style=for-the-badge&logo=rust&logoColor=white)
+![typescript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-🛢 Databases    
+### Databases    
 
 <span><img alt="MySQL" src="https://img.shields.io/static/v1?style=for-the-badge&message=MySQL&color=4053D6&logo=MySQL&logoColor=FFFFFF&label="/>
 <img alt="Postgres" src="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/></span>
 <img alt="Oracle" src="https://img.shields.io/static/v1?style=for-the-badge&message=OracleDB&color=CC2927&logo=Oracle&logoColor=FFFFFF&label="/></span>
 
-🖥 Servers
+### Servers
 
 <span><img alt="Express" src="https://img.shields.io/static/v1?style=for-the-badge&message=Express&color=000000&logo=Express&logoColor=FFFFFF&label="/>
 <img alt="Spring" src="https://img.shields.io/badge/spring-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white"/>
 <img alt="RESTAPI" src="https://img.shields.io/static/v1?style=for-the-badge&message=REST+API&color=005571&logo=RESTAPI&logoColor=FFFFFF&label="/></span>
 
-🎨 Frameworks  
+### Frameworks  
 
 <span><img alt="Vue.js" src="https://img.shields.io/badge/vuejs-%2335495e.svg?&style=for-the-badge&logo=vue.js&logoColor=%234FC08D"/>
 <img alt="React" src="https://img.shields.io/static/v1?style=for-the-badge&message=React&color=222222&logo=React&logoColor=61DAFB&label=" />
@@ -32,7 +37,7 @@
 <img alt="Electron.js" src="https://img.shields.io/static/v1?style=for-the-badge&message=Electron&color=47848F&logo=Electron&logoColor=FFFFFF&label="/>
 <img alt="Bootstrap" src="https://img.shields.io/static/v1?style=for-the-badge&message=Bootstrap&color=7952B3&logo=Bootstrap&logoColor=FFFFFF&label=" />
   
-🔨 Tools
+### Tools
 
 <span><img alt="NPM" src="https://img.shields.io/static/v1?style=for-the-badge&message=npm&color=CB3837&logo=npm&logoColor=FFFFFF&label=" />
 <img alt="Yarn" src="https://img.shields.io/static/v1?style=for-the-badge&message=Yarn&color=2C8EBB&logo=Yarn&logoColor=FFFFFF&label=" />
@@ -41,16 +46,7 @@
 <img alt="Webpack" src="https://img.shields.io/static/v1?style=for-the-badge&message=Webpack&color=222222&logo=Webpack&logoColor=8DD6F9&label=" />
 <img alt="Github Actions" src="https://img.shields.io/static/v1?style=for-the-badge&message=GitHub+Actions&color=2088FF&logo=GitHub+Actions&logoColor=FFFFFF&label=" />
 <img alt="Git" src="https://img.shields.io/static/v1?style=for-the-badge&message=Git&color=F05032&logo=Git&logoColor=FFFFFF&label=" /></span>
-
-
-### Languages
-
-![solidity](https://img.shields.io/badge/SOLIDITY-28B6F6?style=for-the-badge&logo=SOLIDITY&logoColor=white)
-![rust](https://img.shields.io/badge/RUST-323330?style=for-the-badge&logo=rust&logoColor=white)
-![typescript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
+  
 ### Front-End Development
 
 ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
