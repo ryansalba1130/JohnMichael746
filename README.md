@@ -66,4 +66,6 @@
 <span align="right">
 ![My GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JohnMichael746&hide_border=true&theme=black-ice&background=3D3D3D&stroke=00E6FE)
 </span>
+
+ ![davidsoft318's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=davidsoft318&show_icons=true&theme=default) 
  
