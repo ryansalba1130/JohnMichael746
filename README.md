@@ -19,10 +19,7 @@
 <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/></span>
 <img alt="Oracle" src="https://img.shields.io/static/v1?style=for-the-badge&message=OracleDB&color=CC2927&logo=Oracle&logoColor=FFFFFF&label="/></span>
 
-
-<span align="right">
  ![John's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=johnmichael746&show_icons=true&theme=default) 
-</span>
 
 ### Servers
 
