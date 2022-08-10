@@ -45,9 +45,9 @@
 <h2>📈 &nbsp;John's Github Stats</h2>
 <span align="left">
 
-![Saif's GitHub Stats](https://github-readme-stats.vercel.app/api?username=saifrehman99&show_icons=true&hide_border=true&bg_color=3D3D3D&title_color=00E6FE&icon_color=00E6FE&text_color=FFFFFF)
+![John's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JohnMichael746&show_icons=true&hide_border=true&bg_color=3D3D3D&title_color=00E6FE&icon_color=00E6FE&text_color=FFFFFF)
 </span>
 <span align="right">
-![My GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SaifRehman99&hide_border=true&theme=black-ice&background=3D3D3D&stroke=00E6FE)
+![My GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JohnMichael746&hide_border=true&theme=black-ice&background=3D3D3D&stroke=00E6FE)
 </span>
  
