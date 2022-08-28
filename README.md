@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm John Michael</h1>
-<h3 align="center">A Professional Full-Stack Engineer | Web designer</h3>
+<h3 align="center">A Professional Frontend Developer | Web designer</h3>
 
 ### Languages  
 
